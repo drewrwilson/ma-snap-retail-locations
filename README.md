@@ -1,4 +1,9 @@
-ma-snap-retail-locations
-========================
+Massachusetts SNAP benefits retail map
+=================================
 
-A map and list of all retail locations in Massachusetts that accept SNAP benefits (EBT cards)
+A simple view into the retail stores that accept EBT in Massachusetts, features a cluster map of all the retail locations and a sortable list.
+
+
+To run this locally:
+
+``python -m SimpleHTTPServer 4000``
